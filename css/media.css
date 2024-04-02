@@ -1,0 +1,250 @@
+@media (max-width: 1441px) {
+    .promo_main_img {
+        max-width: 70%;
+        display: block;
+    }
+    .rectangle_milk {
+        display: block;
+        max-width: 70%;
+    }
+    .rectangle_blue {
+            display: block;
+            max-width: 70%;
+    }
+}
+
+@media (max-width: 1024px) {
+.header_menu {
+    display: none;
+ }
+.promo_wrapper {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+ }
+.rectangle_blue {
+    left: 150px;
+}
+.rectangle_milk {
+    left: 150px;
+}
+.products_cards_animal_box {
+    justify-content: center;
+}
+.our_products_wrap_box {
+    justify-content: center;
+
+}
+.icons_wrapper_icon_box {
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.footer_wrap_inner_title {
+    max-width: 200px;
+}
+
+.main_banner_cat {
+    display: none;
+}
+
+.wrapper_filter {
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrapper_filter_box {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 0;
+}
+.cat_card_box {
+    gap: 20px;
+}
+
+.card_descr_wrap {
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+}
+
+@media (max-width: 769px) {
+    
+    .container_1 {
+        max-width: 768px;
+        width: 100%;
+    }
+    .banner {
+        display: none;
+    }
+    .icons_img {
+        display: block;
+        
+        object-fit: cover;
+        height: 50%;
+    }
+    .adoption_banner {
+        display: none;
+    }
+    .blog_cards {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer_wrap_inner {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .footer_wrap_inner_box {
+        width: 80%;
+    }
+    .footer_wrap_inner_title {
+        max-width: 300px;
+        text-align: center;
+    }
+    .footer_wrap_nav_and_icons {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        
+    }
+    .footer_wrap_descr {
+        gap: 30px;
+    }
+    .cat_card_box {
+        justify-content: center;
+        gap: 20px;
+    }
+    .dogs_cards_title_part {
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 426px) {
+    .promo_wrapper_box_main_title {
+        font-size: 30px;
+        text-align: center;
+    }
+    .promo_wrapper_box_title {
+        font-size: 23px;
+        text-align: center;
+    }
+    .promo_wrapper_box_text {
+        text-align: center;
+    }
+    .rectangle_logo {
+        display: none;
+    }
+    .rectangle_down {
+        display: none;
+    }
+    .promo_wrapper_box {
+        width: 100%;
+    }
+    .rectangle_milk {
+        display: none;
+    }
+    .rectangle_blue {
+        display: none;
+    }
+    .promo_wrapper_buttons {
+        justify-content: center;
+    }
+    .our_products_wrap {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+    .blog_wrap_title_box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+    .footer_wrap_inner {
+        width: 100%;
+        padding: 5px;
+    }
+    .footer {
+        padding: 10px 10px 10px 10px;
+    }
+    .footer_wrap {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .footer_wrap_inner_box {
+        flex-direction: column;
+    }
+
+    .wrapper_filter_box {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 10px;
+    } 
+
+    .card_descr_wrap_img {
+        display: block;
+        width: 100%;
+        
+    }
+
+    .card_descr_wrap_box_img {
+        display: block;
+        width: 100%;
+    }
+}
+
+@media (max-width: 326px) {
+    .our_products_wrap_box_title {
+        text-align: center;
+    }
+
+    .blog_card_img {
+        display: block;
+        max-width: 100%;
+    }
+
+    .blog_card {
+        margin-bottom: 30px;
+    }
+
+    .footer_wrap_nav {
+        flex-direction: column;
+    }
+
+    .footer_wrap_nav {
+        margin-bottom: 30px;
+    }
+
+    .footer_wrap_descr {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card_descr_btn_box {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .way {
+        align-items: center;
+    }
+    
+    .card_descr_wrap_left_inner_description_box_text {
+        font-size: 12px;
+        
+    }
+    
+    .option_descr_text_last {
+        border: none;
+    }
+}
+
+
+
+
