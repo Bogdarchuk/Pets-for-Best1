@@ -482,6 +482,8 @@ color: var(--neutral-color-100, #00171F);
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
 }
 .icons_wrapper_title_box_descr {
     color: #000;
