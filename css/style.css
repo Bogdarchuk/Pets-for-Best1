@@ -60,12 +60,14 @@
     justify-content: center;
     position: absolute;
     background-color: #FFB672;
-    width: 50%;
-    height: 50%;
-    right: 30px;
+    width: 15%;
+    height: 30%;
+    right: 170px;
     top: 30px;
     z-index: 10;
     gap: 20px;
+    border-radius: 20px;
+    opacity: 0.8 ;
 
 }
 
@@ -579,7 +581,7 @@ color: var(--neutral-color-100, #00171F);
     justify-content: space-between;
     background-color: #FFB775;
     position: relative;
-    z-index: ;
+
     border-radius: 20px;
     
 }
@@ -590,6 +592,7 @@ color: var(--neutral-color-100, #00171F);
     position: relative;
     z-index: 3;
     padding-left: 80px;
+    border-radius: 20px;
     
     
 }
@@ -1230,14 +1233,16 @@ color: var(--neutral-color-100, #00171F);
 }
 .cat_card_box_wrapper_price {
     color: var(--neutral-color-100, #00171F);
-    
+        text-align: center;
         /* Body/14px Bold */
         font-family: SVN-Gilroy;
-        font-size: 14px;
+        font-size: 18px;
         font-style: normal;
         font-weight: 700;
         line-height: 20px;
         /* 142.857% */
+        margin-top: 10px;
+        margin-bottom: 10px;
 }
 
 
